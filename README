@@ -1,18 +1,12 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Reviewer 1
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+The app does show up on the emulator but doesn't run correctly because the buttons take up 100% of the window
+they are placed in.  So the whole app shows up as one big button that when clicked closes the whole app because of
+the eventlistener on the second window.
 
+Visually the colors make it kind of hard to look at,just my opinion I guess. and the text would look a lot better if it 
+was sized and also if the text was positioned in way that made it seem like it was an actual business card which are minor fixes.
 
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
+The app has no code for it to adapt to other devices a=on different operating systems,which i couldnt gigure out either. But since most of 
+sizes are in percentages it shouldn't have too hard of a time adapting to a different sized screen once the navigation is fixed.
 
